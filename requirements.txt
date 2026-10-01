@@ -1,0 +1,6 @@
+   Django
+   pandas
+   scikit-learn
+   xlwt
+   mysqlclient
+   tabulate
